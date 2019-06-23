@@ -1,0 +1,7 @@
+{
+	"version":	"0.1",
+	"name":		"Devel-REPL-Profile-starbase527",
+	"author":	"starbase527",
+	"abstract":	"Custom profile for Devel::REPL.",
+	"license":	"perl"
+}
